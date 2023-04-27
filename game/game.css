@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+
+td{
+    width: 30px;
+	height: 30px;
+	border: 1px solid black;
+}
+#pixelCanvas {
+    display: none;
+}
